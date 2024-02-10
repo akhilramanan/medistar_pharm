@@ -796,7 +796,7 @@ section {
 }
 
 .about .video-box {
-  background-image: url(/assets/img/IMG_20240207_112518\ \ 09.jpg);
+  background-image: url(assets\img\IMG_20240207_112518\ \ 09.jpg);
   /* background: url("../img/about.jpg") center center no-repeat; */
   background-size: cover;
   min-height: 500px;
